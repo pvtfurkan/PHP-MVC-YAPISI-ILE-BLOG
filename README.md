@@ -1,5 +1,5 @@
 # PHP--MVC-YAPISI-LE-BLOG-
-PHP MVC, MYSQL VERİTABANI ile YENİ BLOG YAZMA, GÖRÜNTÜLEME, VERİTABANINA İŞLEME VE ÇEKME
+PHP MVC, MYSQL VERİTABANI ile YENİ BLOG YAZMA, GÖRÜNTÜLEME, VERİTABANINA İŞLEME VE VERİTABANINDAN ÇEKME
 
 
 Bu proje web sayfamızın MVC yapısında kodlanarak ne derece kolay ve düzenli hale geldiğini gösteren minyatür bir örnektir.
