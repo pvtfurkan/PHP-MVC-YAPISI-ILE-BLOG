@@ -1,0 +1,221 @@
+body
+{ 
+    margin:0;
+    padding:0;
+    font-size:14px;
+    font-family:Arial;
+}
+
+a{
+    text-decoration:none;
+
+}
+
+h1
+{
+    margin:0;
+    padding:0;
+
+}
+
+h3
+{
+    padding:0;
+    margin:0;
+}
+
+#ana
+{
+  
+}
+#ana_header
+{
+    background:green;
+    padding:20px;
+    border-bottom:1px solid rgba(0,0,0,0.5);
+}
+
+#ana_govde
+{
+    padding:40px 0;
+    background:#EEEEEE;
+
+}
+
+#ana_footer
+{
+    background:green;
+    padding:20px;
+    border-top:1px solid rgba(0,0,0,0.5);
+    color: #FFFFFF;
+
+
+
+}
+
+
+#ana_header nav a
+{
+    color:#FFFFFF; 
+    text-decoration: none;
+    display:inline-block;
+    padding: 10px 20px;
+    cursor:pointer;
+    transition-duration:0.2s;
+    font-size:16px;
+    font-weight: bold;
+
+
+}
+
+#ana_header nav a:hover
+{
+    background:rgba(0,0,0,0.5);
+}
+
+#ana_govde h1
+{
+    padding:0 0 5px 0;
+    margin-bottom:20px;
+    color:#666;
+    border-bottom:2px solid #999;
+}
+#copyright
+{
+    float:left;
+    padding: 5px 0;
+
+}
+
+#ana_footer nav
+{
+    float:right;
+}
+
+#ana_footer nav a 
+{
+    color:#FFFFFF;
+    display:inline-block;
+    padding:5px 20px;
+    transition-duration: 0.2s;
+
+}
+
+#ana_footer nav a:hover
+{
+    background: rgba(255,255,255,0.1);
+}
+
+
+#blog_form
+{
+
+}
+#blog_form input
+{
+    display:block;
+    width:958px;
+    padding:10px;
+    background:#FFFFFF;
+    border:1px solid rgba(0,0,0,0.2);
+    margin:10px 0;
+    font-size: 14px;
+    font-family: Arial;
+    box-shadow:1px 1px 3px 0 rgba(0,0,0,0.2);
+    transition-duration:0.3s;
+
+
+}
+
+
+#blog_form input:focus
+{
+    background:#FFFA8A;
+}
+
+#blog_form textarea
+{
+    display:block;
+    width: 958px;
+    height:200px;
+    padding:10px;
+    background:#FFFFFF;
+    border:1px solid rgba(0,0,0,0.2);
+    margin:10px 0;
+    font-size: 14px;
+    font-family:Arial;
+    box-shadow:1px 1px 3px 0 rgba(0,0,0,0.2);
+    transition-duration: 0.3s;
+}
+
+#blog_form textarea:focus
+{
+    background:#FFFA8A;
+}
+
+#blog_form button
+{
+    padding: 5px 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: darkcyan;
+    cursor:pointer;
+    border: 1px solid rgba(0,0,0,0.2);
+    box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.2);
+}
+
+
+.blog_article
+{
+    padding: 10px;
+    margin: 20px 0;
+    background: #dddddd;
+    border: 1px solid rgba(0,0,0,0.1);
+
+}
+
+.blog_article header
+{
+    padding: 10px;
+    margin: 20px 0;
+    background: #dddddd;
+    border: 1px solid rgba(0,0,0,0.1);
+
+}
+
+.blog article header h3
+{
+    padding-bottom: 5px;
+}
+
+.blog_article .blog_icerik
+{
+    padding:10px 0 15px 0;
+}
+
+.blog_article footer
+{
+    color:#999;
+    font-size:12px;
+}
+
+.blog_article footer .tarih
+{
+    float: left;
+}
+
+.blog_article footer .yorum_adet
+{
+    float: right;
+}
+
+.margin_auto
+{
+    width: 980px;
+    margin:auto;
+}
+
+.clear
+{
+    clear:both;
+}
